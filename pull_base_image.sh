@@ -1,0 +1,1 @@
+docker pull svizor/zoomcamp-model:3.11.5-slim
